@@ -1,13 +1,13 @@
-import { Layout } from '@components/layout'
+import { Layout } from '@components/layout';
 
-import './App.scss'
+import './App.scss';
 
 function App() {
   return (
-    <div className='todo-app'>
+    <div className="app">
       <Layout />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
